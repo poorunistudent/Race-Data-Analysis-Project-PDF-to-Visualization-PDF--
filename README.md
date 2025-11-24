@@ -2,6 +2,7 @@
 This project demonstrates a complete data pipeline written in Python, covering extraction, cleaning, transformation, and visualization of raw race results from a PDF file.
 
 for English scrol down
+Data is from Georgian Automobile Sport Federation
 
 რბოლის მონაცემთა ანალიზი: PDF-დან ვიზუალიზაციამდე
 ეს პროექტი წარმოადგენს Python-ზე დაწერილ სრულ მონაცემთა მილსადენს (data pipeline), რომელიც მოიცავს ნედლი სარბოლო შედეგების ამოღებას, გაწმენდას, ტრანსფორმაციას და ვიზუალიზაციას PDF ფაილიდან.
